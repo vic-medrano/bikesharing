@@ -1,6 +1,9 @@
 # bikesharing
 ## Overview
 The purpose of this analysis was to analyze patterns and usage of Citi bikes in New York City. This analysis was conducted to present information to key stakeholders to provide them with information to determine if Des Moines is a good potential location to bring a similar bike sharing service.
+
+**A link to Tableau Public Dashboard https://public.tableau.com/app/profile/victoria.medrano/viz/Citibike_Challenge_16566943909040/Challenge?publish=yes**
+
 ## Results
 ![image](https://user-images.githubusercontent.com/102090016/177052567-d8459d58-19e4-48b8-b2d2-b44124f105b2.png)
 
